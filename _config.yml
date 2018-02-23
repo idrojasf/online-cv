@@ -14,10 +14,10 @@ style: styles-3
 
 
 #Profile information
-nombre: Ivan Rojas
+name: Ivan Rojas
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Profesional en proceso de ingenieria de sistemas y computación'
+pic: perfil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Estudiante de Ingeniería de Sistemas y Computación con capacidad de trabajo en grupo, comunicación asertiva, seguimiento de instrucciones, iniciativa y aprendizaje; con interés en desempeñarse en el área de desarrollo, con manejo de programación estructurada, programación orientada a objetos y estructuras de datos; Lenguaje de Marcado de Hipertexto (HTML5); lenguaje de hojas de estilo CSS; lenguajes de programación como C, C++, Java, Python, Angular 2, Ruby, R, Pascal y JavaScript; herramientas de construcción de lenguajes de programación como Flex, Bison y ANTLR4; modelado y manejo básico de bases de datos (MySQL).  Mas de tres años de experiencia en ventas y atención al público en comercio al por menor de víveres, con gran iniciativa y habilidades para interactuar en el área de ventas. '
 
 #sidebar links
 email: idrojasf@unal.edu.co
